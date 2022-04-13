@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Characters/Enemy.meta
+    - Assets/Characters/Enemy/Death 1.png
+    - Assets/Characters/Enemy/Death 1.png.meta
+    - Assets/Characters/Enemy/Idle 3.png
+    - Assets/Characters/Enemy/Idle 3.png.meta
+    - Assets/Characters/Enemy/Run 1.png
+    - Assets/Characters/Enemy/Run 1.png.meta
+    - Assets/Characters/Enemy/Take Hit 1.png
+    - Assets/Characters/Enemy/Take Hit 1.png.meta
+    - Assets/Characters/Enemy/Untitled.png
+    - Assets/Characters/Enemy/Untitled.png.meta
+    - Assets/Characters/FWIzard.meta
+    - Assets/Characters/FWIzard/Attack.png
+    - Assets/Characters/FWIzard/Attack.png.meta
+    - Assets/Characters/FWIzard/Death.png
+    - Assets/Characters/FWIzard/Death.png.meta
+    - Assets/Characters/FWIzard/Idle 1.png
+    - Assets/Characters/FWIzard/Idle 1.png.meta
+    - Assets/Characters/FWIzard/Idle 2.png
+    - Assets/Characters/FWIzard/Idle 2.png.meta
+    - Assets/Characters/FWIzard/Move.png
+    - Assets/Characters/FWIzard/Move.png.meta
+    - Assets/Characters/Wizard.meta
+    - Assets/Characters/Wizard/Attack1.png
+    - Assets/Characters/Wizard/Attack1.png.meta
+    - Assets/Characters/Wizard/Attack2.png
+    - Assets/Characters/Wizard/Attack2.png.meta
+    - Assets/Characters/Wizard/Death.png
+    - Assets/Characters/Wizard/Death.png.meta
+    - Assets/Characters/Wizard/Fall.png
+    - Assets/Characters/Wizard/Fall.png.meta
+    - Assets/Characters/Wizard/Hit.png
+    - Assets/Characters/Wizard/Hit.png.meta
+    - Assets/Characters/Wizard/Idle.png
+    - Assets/Characters/Wizard/Idle.png.meta
+    - Assets/Characters/Wizard/Jump.png
+    - Assets/Characters/Wizard/Jump.png.meta
+    - Assets/Characters/Wizard/Run.png
+    - Assets/Characters/Wizard/Run.png.meta
+    - Assets/Characters/warrior.meta
+    - Assets/Characters/warrior/Attack1.png
+    - Assets/Characters/warrior/Attack1.png.meta
+    - Assets/Characters/warrior/Attack3.png
+    - Assets/Characters/warrior/Attack3.png.meta
+    - Assets/Characters/warrior/Idle2.png
+    - Assets/Characters/warrior/Idle2.png.meta
+    - Assets/Characters/warrior/Run.png
+    - Assets/Characters/warrior/Run.png.meta
+    - Assets/Characters/warrior/Take hit.png
+    - Assets/Characters/warrior/Take hit.png.meta
+    - 
+    m_Values: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
