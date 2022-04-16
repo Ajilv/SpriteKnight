@@ -14,28 +14,102 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/Characters/Animation.meta
+    - Assets/Characters/Animation/Party Leader.controller
+    - Assets/Characters/Animation/Party Leader.controller.meta
+    - Assets/Characters/Animation/Walk.anim
+    - Assets/Characters/Animation/Walk.anim.meta
+    - Assets/Characters/Animation/attack.anim
+    - Assets/Characters/Animation/attack.anim.meta
+    - Assets/Characters/Animation/attackf.anim
+    - Assets/Characters/Animation/attackf.anim.meta
+    - Assets/Characters/Animation/idle.anim
+    - Assets/Characters/Animation/idle.anim.meta
+    - Assets/Characters/Attack.png.meta
+    - Assets/Characters/Attack1.png.meta
+    - Assets/Characters/Attack3.png
+    - Assets/Characters/Attack3.png.meta
+    - Assets/Characters/Death.png.meta
     - Assets/Characters/Enemy.meta
+    - Assets/Characters/Enemy/Attack.anim
+    - Assets/Characters/Enemy/Attack.anim.meta
+    - Assets/Characters/Enemy/Attack1.png
+    - Assets/Characters/Enemy/Attack1.png.meta
     - Assets/Characters/Enemy/Death 1.png
     - Assets/Characters/Enemy/Death 1.png.meta
+    - Assets/Characters/Enemy/Death.anim
+    - Assets/Characters/Enemy/Death.anim.meta
     - Assets/Characters/Enemy/Idle 3.png
     - Assets/Characters/Enemy/Idle 3.png.meta
+    - Assets/Characters/Enemy/Party Member B.controller
+    - Assets/Characters/Enemy/Party Member B.controller.meta
+    - Assets/Characters/Enemy/Party Member C.controller
+    - Assets/Characters/Enemy/Party Member C.controller.meta
     - Assets/Characters/Enemy/Run 1.png
     - Assets/Characters/Enemy/Run 1.png.meta
     - Assets/Characters/Enemy/Take Hit 1.png
     - Assets/Characters/Enemy/Take Hit 1.png.meta
     - Assets/Characters/Enemy/Untitled.png
     - Assets/Characters/Enemy/Untitled.png.meta
-    - Assets/Characters/FWIzard.meta
-    - Assets/Characters/FWIzard/Attack.png
-    - Assets/Characters/FWIzard/Attack.png.meta
-    - Assets/Characters/FWIzard/Death.png
-    - Assets/Characters/FWIzard/Death.png.meta
-    - Assets/Characters/FWIzard/Idle 1.png
-    - Assets/Characters/FWIzard/Idle 1.png.meta
-    - Assets/Characters/FWIzard/Idle 2.png
-    - Assets/Characters/FWIzard/Idle 2.png.meta
-    - Assets/Characters/FWIzard/Move.png
-    - Assets/Characters/FWIzard/Move.png.meta
+    - Assets/Characters/Enemy/idle.anim
+    - Assets/Characters/Enemy/idle.anim.meta
+    - Assets/Characters/Enemy/wak.anim
+    - Assets/Characters/Enemy/wak.anim.meta
+    - Assets/Characters/Enemy/walk.anim
+    - Assets/Characters/Enemy/walk.anim.meta
+    - Assets/Characters/Idle 1.png.meta
+    - Assets/Characters/Idle 2.png.meta
+    - Assets/Characters/Idle2.png
+    - Assets/Characters/Idle2.png.meta
+    - Assets/Characters/Monsters.meta
+    - Assets/Characters/Monsters/Monsters.meta
+    - Assets/Characters/Monsters/Monsters/air001-Agyvogh_96x96.jpg
+    - Assets/Characters/Monsters/Monsters/air001-Agyvogh_96x96.jpg.meta
+    - Assets/Characters/Monsters/Monsters/air001-Baacklaal_96x96.jpg
+    - Assets/Characters/Monsters/Monsters/air001-Baacklaal_96x96.jpg.meta
+    - Assets/Characters/Monsters/Monsters/air002-Dreamludd_96x96.jpg
+    - Assets/Characters/Monsters/Monsters/air002-Dreamludd_96x96.jpg.meta
+    - Assets/Characters/Monsters/Monsters/air002-MulDream_96x96.jpg
+    - Assets/Characters/Monsters/Monsters/air002-MulDream_96x96.jpg.meta
+    - Assets/Characters/Monsters/Monsters/air003-Ashgaroth_96x96.jpg
+    - Assets/Characters/Monsters/Monsters/air003-Ashgaroth_96x96.jpg.meta
+    - Assets/Characters/Monsters/Monsters/air005-Veravascorr_96x96.jpg
+    - Assets/Characters/Monsters/Monsters/air005-Veravascorr_96x96.jpg.meta
+    - Assets/Characters/Monsters/Monsters/air007-Poblade_96x96.jpg
+    - Assets/Characters/Monsters/Monsters/air007-Poblade_96x96.jpg.meta
+    - Assets/Characters/Move.png.meta
+    - Assets/Characters/New Folder.meta
+    - Assets/Characters/New Folder/Attack.png
+    - Assets/Characters/New Folder/Attack.png.meta
+    - Assets/Characters/New Folder/Death.png
+    - Assets/Characters/New Folder/Death.png.meta
+    - Assets/Characters/New Folder/Idle.png
+    - Assets/Characters/New Folder/Idle.png.meta
+    - Assets/Characters/New Folder/Move.png
+    - Assets/Characters/New Folder/Move.png.meta
+    - Assets/Characters/New Folder/Take Hit.png
+    - Assets/Characters/New Folder/Take Hit.png.meta
+    - Assets/Characters/Run.png
+    - Assets/Characters/Run.png.meta
+    - Assets/Characters/Take hit.png
+    - Assets/Characters/Take hit.png.meta
+    - Assets/Characters/Traps and loot.meta
+    - Assets/Characters/Traps and loot/Bear_Trap.png
+    - Assets/Characters/Traps and loot/Bear_Trap.png.meta
+    - Assets/Characters/Traps and loot/Fire_Trap.png
+    - Assets/Characters/Traps and loot/Fire_Trap.png.meta
+    - Assets/Characters/Traps and loot/Pit_Trap_Spikes.png
+    - Assets/Characters/Traps and loot/Pit_Trap_Spikes.png.meta
+    - Assets/Characters/Traps and loot/Push_Trap_Front.png
+    - Assets/Characters/Traps and loot/Push_Trap_Front.png.meta
+    - Assets/Characters/Traps and loot/Push_Trap_Right.png
+    - Assets/Characters/Traps and loot/Push_Trap_Right.png.meta
+    - Assets/Characters/Traps and loot/Spike Trap.png
+    - Assets/Characters/Traps and loot/Spike Trap.png.meta
+    - Assets/Characters/Traps and loot/tile_castle_grey.png
+    - Assets/Characters/Traps and loot/tile_castle_grey.png.meta
+    - Assets/Characters/Traps and loot/treasure chest.png
+    - Assets/Characters/Traps and loot/treasure chest.png.meta
     - Assets/Characters/Wizard.meta
     - Assets/Characters/Wizard/Attack1.png
     - Assets/Characters/Wizard/Attack1.png.meta
@@ -54,18 +128,30 @@ MonoBehaviour:
     - Assets/Characters/Wizard/Run.png
     - Assets/Characters/Wizard/Run.png.meta
     - Assets/Characters/warrior.meta
-    - Assets/Characters/warrior/Attack1.png
-    - Assets/Characters/warrior/Attack1.png.meta
-    - Assets/Characters/warrior/Attack3.png
-    - Assets/Characters/warrior/Attack3.png.meta
-    - Assets/Characters/warrior/Idle2.png
-    - Assets/Characters/warrior/Idle2.png.meta
-    - Assets/Characters/warrior/Run.png
-    - Assets/Characters/warrior/Run.png.meta
-    - Assets/Characters/warrior/Take hit.png
-    - Assets/Characters/warrior/Take hit.png.meta
+    - Assets/Characters/warrior/Attack2.png
+    - Assets/Characters/warrior/Attack2.png.meta
+    - Assets/Characters/warrior/Death.png
+    - Assets/Characters/warrior/Death.png.meta
+    - Assets/Characters/warrior/Fall.png
+    - Assets/Characters/warrior/Fall.png.meta
+    - Assets/Characters/warrior/Idle.anim
+    - Assets/Characters/warrior/Idle.anim.meta
+    - Assets/Characters/warrior/Idle.png
+    - Assets/Characters/warrior/Idle.png.meta
+    - Assets/Characters/warrior/Jump.png
+    - Assets/Characters/warrior/Jump.png.meta
+    - Assets/Characters/warrior/Party Member A.controller
+    - Assets/Characters/warrior/Party Member A.controller.meta
+    - Assets/Prefabs/back.jpg
+    - Assets/Prefabs/back.jpg.meta
+    - Assets/Scenes/Combat.unity
+    - Assets/Scenes/Combat.unity.meta
+    - Assets/Scenes/Prototype.unity
+    - Assets/_Scripts/PlayerController.cs
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
     - 
-    m_Values: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
